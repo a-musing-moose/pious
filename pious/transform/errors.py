@@ -1,0 +1,3 @@
+
+class InvalidIterator(Exception):
+    pass

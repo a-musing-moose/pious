@@ -1,0 +1,1162 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+4 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 20 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 62.69291
+ 690.7736
+ 107.7129
+ 702.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+5 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 20 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 690.7736
+ 532.5827
+ 702.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 21 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 82.69291
+ 672.7736
+ 157.1829
+ 684.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 21 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 672.7736
+ 532.5827
+ 684.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 62.69291
+ 654.7736
+ 170.5129
+ 666.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 654.7736
+ 532.5827
+ 666.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 672.0236
+ 0 ]
+ /Rect [ 82.69291
+ 636.7736
+ 206.6229
+ 648.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 672.0236
+ 0 ]
+ /Rect [ 527.0227
+ 636.7736
+ 532.5827
+ 648.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 461.0236
+ 0 ]
+ /Rect [ 62.69291
+ 618.7736
+ 133.2829
+ 630.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 461.0236
+ 0 ]
+ /Rect [ 527.0227
+ 618.7736
+ 532.5827
+ 630.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 356.0236
+ 0 ]
+ /Rect [ 82.69291
+ 600.7736
+ 167.7329
+ 612.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class LinkAnnotation 
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 356.0236
+ 0 ]
+ /Rect [ 527.0227
+ 600.7736
+ 532.5827
+ 612.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class LinkAnnotation 
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 176.0236
+ 0 ]
+ /Rect [ 62.69291
+ 582.7736
+ 156.0529
+ 594.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class LinkAnnotation 
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 176.0236
+ 0 ]
+ /Rect [ 527.0227
+ 582.7736
+ 532.5827
+ 594.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class LinkAnnotation 
+18 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 113.0236
+ 0 ]
+ /Rect [ 82.69291
+ 564.7736
+ 193.8429
+ 576.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class LinkAnnotation 
+19 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 113.0236
+ 0 ]
+ /Rect [ 527.0227
+ 564.7736
+ 532.5827
+ 576.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+20 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R ]
+ /Contents 36 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 35 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+21 0 obj
+% Page dictionary
+<< /Contents 37 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 35 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+22 0 obj
+% Page dictionary
+<< /Contents 38 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 35 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page4': class PDFPage 
+23 0 obj
+% Page dictionary
+<< /Contents 39 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 35 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R24': class PDFCatalog 
+24 0 obj
+% Document Root
+<< /Outlines 26 0 R
+ /PageLabels 40 0 R
+ /PageMode /UseNone
+ /Pages 35 0 R
+ /Type /Catalog >>
+endobj
+% 'R25': class PDFInfo 
+25 0 obj
+<< /Author ()
+ /CreationDate (D:20120726145612-10'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title () >>
+endobj
+% 'R26': class PDFOutlines 
+26 0 obj
+<< /Count 12
+ /First 27 0 R
+ /Last 33 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+27 0 obj
+<< /Count 1
+ /Dest [ 20 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 28 0 R
+ /Last 28 0 R
+ /Next 29 0 R
+ /Parent 26 0 R
+ /Title (\376\377\0001\000\240\000\240\000\240\000P\000I\000O\000U\000S) >>
+endobj
+% 'Outline.9.0': class OutlineEntryObject 
+28 0 obj
+<< /Dest [ 21 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Parent 27 0 R
+ /Title (\376\377\0001\000.\0001\000\240\000\240\000\240\000I\000n\000t\000r\000o\000d\000u\000c\000t\000i\000o\000n) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+29 0 obj
+<< /Count 1
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 30 0 R
+ /Last 30 0 R
+ /Next 31 0 R
+ /Parent 26 0 R
+ /Prev 27 0 R
+ /Title (\376\377\0002\000\240\000\240\000\240\000P\000i\000o\000u\000s\000 \000D\000a\000t\000a\000 \000S\000o\000u\000r\000c\000e\000s) >>
+endobj
+% 'Outline.10.0': class OutlineEntryObject 
+30 0 obj
+<< /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 672.0236
+ 0 ]
+ /Parent 29 0 R
+ /Title (\376\377\0002\000.\0001\000\240\000\240\000\240\000D\000a\000t\000a\000 \000S\000o\000u\000r\000c\000e\000 \000P\000r\000i\000m\000i\000t\000i\000v\000e\000s) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+31 0 obj
+<< /Count 1
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 461.0236
+ 0 ]
+ /First 32 0 R
+ /Last 32 0 R
+ /Next 33 0 R
+ /Parent 26 0 R
+ /Prev 29 0 R
+ /Title (\376\377\0003\000\240\000\240\000\240\000P\000i\000o\000u\000s\000 \000P\000i\000p\000e\000s) >>
+endobj
+% 'Outline.11.0': class OutlineEntryObject 
+32 0 obj
+<< /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 356.0236
+ 0 ]
+ /Parent 31 0 R
+ /Title (\376\377\0003\000.\0001\000\240\000\240\000\240\000E\000x\000i\000s\000t\000i\000n\000g\000 \000P\000i\000p\000e\000s) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+33 0 obj
+<< /Count 1
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 176.0236
+ 0 ]
+ /First 34 0 R
+ /Last 34 0 R
+ /Parent 26 0 R
+ /Prev 31 0 R
+ /Title (\376\377\0004\000\240\000\240\000\240\000P\000i\000o\000u\000s\000 \000C\000o\000n\000s\000u\000m\000e\000r) >>
+endobj
+% 'Outline.12.0': class OutlineEntryObject 
+34 0 obj
+<< /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 113.0236
+ 0 ]
+ /Parent 33 0 R
+ /Title (\376\377\0004\000.\0001\000\240\000\240\000\240\000E\000x\000i\000s\000t\000i\000n\000g\000 \000C\000o\000n\000s\000u\000m\000e\000r\000s) >>
+endobj
+% 'R35': class PDFPages 
+35 0 obj
+% page tree
+<< /Count 4
+ /Kids [ 20 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R ]
+ /Type /Pages >>
+endobj
+% 'R36': class PDFStream 
+36 0 obj
+% page stream
+<< /Length 2376 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (1   PIOUS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (1   PIOUS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.1   Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (2   Pious Data Sources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.1   Data Source Primitives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (3   Pious Pipes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (3.1   Existing Pipes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (4   Pious Consumer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (4.1   Existing Consumers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R37': class PDFStream 
+37 0 obj
+% page stream
+<< /Length 1159 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.1   Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .161984 Tw (A python package for dealing with basic input/output processes. Pious came from the observation that the) Tj T* 0 Tw .054651 Tw (processing data almost always boils down to a series of discreet transforms. Splitting these transforms out) Tj T* 0 Tw 1.974692 Tw (into reusable modules is not only a useful way to build data processing pipelines but also provide a) Tj T* 0 Tw (convenient way to design and describe the process to others.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.64686 Tw (Pious aims to provide the tools needed to build complex data transformation pipeline in a simple and) Tj T* 0 Tw .764692 Tw (easily understood manner. It also try to provide the tools necessary to inspect data as it passes through) Tj T* 0 Tw (the pipeline to make debugging processes as easy as possible.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R38': class PDFStream 
+38 0 obj
+% page stream
+<< /Length 6022 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (2   Pious Data Sources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .229987 Tw (At the base of all Pious transform pipelines are data sources, which as the name would imply are sources) Tj T* 0 Tw (of the raw data you wish to transform.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.016651 Tw (Pious provides a number of data source primatives along with the provisions to build upon those) Tj T* 0 Tw (primatives to fit your own requires.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.1   Data Source Primitives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Source) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .477765 Tw (The base class for all data sources. This is the class from which you should extend you own custom) Tj T* 0 Tw (data sources.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 593.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (CSVFile) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 578.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A Character separated values file. You can specify the separator, escape character etc.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 562.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (XMLFile) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 547.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The build blocks of a SAX based XML file parser) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 531.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (FlatXMLFile) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 504.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .417209 Tw (This extends the XMLFile primitive to provide a simple flat xml importer. By flat XML I mean one that) Tj T* 0 Tw (bascially imitates a CSV, it doesn't use attributes, just flat un-nested elements.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 488.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (DbIterator) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 473.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Iterators the results of an SQL query) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 440.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (3   Pious Pipes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 410.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .508935 Tw (Pipes are similar to data sources in that they act as iterators. The different is that they take a datasource) Tj T* 0 Tw (\(or another pipe\) as an input. Pipes therefore are the building blocks of your transformation pipeline.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 368.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.943984 Tw (Pious provides a goodly collection of pipe with which to build your pipelines providing filters, field) Tj T* 0 Tw .386098 Tw (transformers along with more complex pipes like fork which takes a pipeline and splits it into 2 or multiple) Tj T* 0 Tw (parallel pipes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 338.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (3.1   Existing Pipes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 320.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Pipe) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 305.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The base pipe class that all others extend. This should be the basis of your own pipe implementations) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 289.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Ensure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 262.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .741567 Tw (Ensure that the dict passing through has certain keys and that if they are not present then we set a) Tj T* 0 Tw (default value) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 246.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Filter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 231.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Skips items that match certain criteria) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 215.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Fork) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 188.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.438084 Tw (Splits the pipe into 2 parallel pipes - i.e. the output of the bound iterator is fed into the input of 2) Tj T* 0 Tw (pipelines.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 155.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (4   Pious Consumer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 125.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.645318 Tw (Consumers are the termination points of pipelines. They consume the final output of the pipeline. For) Tj T* 0 Tw (example they may write to a file in various formats or insert/replace into a database table or tables.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 95.02362 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (4.1   Existing Consumers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 77.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Consumer) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R39': class PDFStream 
+39 0 obj
+% page stream
+<< /Length 1197 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 738.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.13061 Tw (The base class for all Pious consumers. This is the class from which your own custom consumers) Tj T* 0 Tw (should derive.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 722.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (DbTable) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 707.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Inserts/Replaces values into a table. Also has options for truncating the table prior to the insert etc.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 691.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (CsvFile) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 664.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.683555 Tw (Writes the data to a CSV file with optional headers and configurable configurable separators and) Tj T* 0 Tw (escape characters) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R40': class PDFPageLabels 
+40 0 obj
+% Document Root
+<< /Nums [ 0
+ 41 0 R
+ 1
+ 42 0 R
+ 2
+ 43 0 R
+ 3
+ 44 0 R ] >>
+endobj
+% 'R41': class PDFPageLabel 
+41 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R42': class PDFPageLabel 
+42 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R43': class PDFPageLabel 
+43 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R44': class PDFPageLabel 
+44 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+xref
+0 45
+0000000000 65535 f
+0000000113 00000 n
+0000000221 00000 n
+0000000386 00000 n
+0000000574 00000 n
+0000000815 00000 n
+0000001056 00000 n
+0000001297 00000 n
+0000001538 00000 n
+0000001779 00000 n
+0000002020 00000 n
+0000002262 00000 n
+0000002504 00000 n
+0000002747 00000 n
+0000002990 00000 n
+0000003233 00000 n
+0000003476 00000 n
+0000003719 00000 n
+0000003962 00000 n
+0000004205 00000 n
+0000004432 00000 n
+0000004862 00000 n
+0000005142 00000 n
+0000005422 00000 n
+0000005703 00000 n
+0000005862 00000 n
+0000006110 00000 n
+0000006236 00000 n
+0000006503 00000 n
+0000006756 00000 n
+0000007104 00000 n
+0000007407 00000 n
+0000007720 00000 n
+0000007983 00000 n
+0000008296 00000 n
+0000008563 00000 n
+0000008698 00000 n
+0000011173 00000 n
+0000012431 00000 n
+0000018552 00000 n
+0000019852 00000 n
+0000019984 00000 n
+0000020061 00000 n
+0000020138 00000 n
+0000020215 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(,\026\003\363\352z\340\204w\302\020\323\365%+\332) (,\026\003\363\352z\340\204w\302\020\323\365%+\332)] 
+
+ /Info 25 0 R
+ /Root 24 0 R
+ /Size 45 >>
+startxref
+20262
+%%EOF
