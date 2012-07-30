@@ -36,8 +36,8 @@ class Collection(object):
         """
         Add a new matcher
 
-        `matcher` should either be a matcher function or an object
-        that provides a `as_matcher` function which returns a matcher function
+        `matcher` should either be a matcher function or an object that
+        provides a `as_matcher` function which returns a matcher function
         """
         m = matcher
         if hasattr(m, 'as_matcher'):
