@@ -19,7 +19,7 @@ setup(name='pious',
       license='BSD',
       platforms=['linux'],
       packages=find_packages(exclude=["*.tests"]),
-      include_package_data = True,
+      include_package_data=True,
       install_requires=[],
       # See http://pypi.python.org/pypi?%3Aaction=list_classifiers
       classifiers=['Environment :: Console',

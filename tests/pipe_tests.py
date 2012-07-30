@@ -1,10 +1,13 @@
 from unittest import TestCase
 
-from pious.transform.pipes import Pipe, Ensure, Rename, RemoveKeys, AutoIncrement
+from pious.transform.pipes import Pipe, Ensure, Rename
+from pious.transform.pipes import RemoveKeys, AutoIncrement
+
+
 class PipeTest(TestCase):
-    
+
     def test_bind_accepts_iterator(self):
-        a = [1,2,3]
+        a = [1, 2, 3]
         p = Pipe()
         try:
             p.bind(a)
@@ -15,8 +18,9 @@ class PipeTest(TestCase):
         p = Pipe()
         self.assertRaises(Exception, p, {})
 
+
 class EnsureTest(TestCase):
-    
+
     def test_sets_undefined_key(self):
         a = [
             {'a': 1, 'b': 1}
@@ -36,6 +40,7 @@ class EnsureTest(TestCase):
             self.assertIn('a', i)
             self.assertEquals(i['a'], 1)
 
+
 class RenameTest(TestCase):
 
     def test_renames_single_key(self):
@@ -44,7 +49,7 @@ class RenameTest(TestCase):
             {'old_key': 'a_value'}
         ]
         key_map = {
-            'old_key':'new_key'
+            'old_key': 'new_key'
         }
         p = Rename(key_map)
         p.bind(test_data)
@@ -65,8 +70,8 @@ class RenameTest(TestCase):
             },
         ]
         key_map = {
-            'old_key1':'new_key1',
-            'old_key2':'new_key2'
+            'old_key1': 'new_key1',
+            'old_key2': 'new_key2'
         }
         p = Rename(key_map)
         p.bind(test_data)
@@ -112,8 +117,8 @@ class AutoIncrementTest(TestCase):
 
     def test_key_added(self):
         test_data = [
-            {'a': 'b',},
-            {'a': 'b',}
+            {'a': 'b'},
+            {'a': 'b'}
         ]
         p = AutoIncrement('counter')
         p.bind(test_data)
@@ -122,8 +127,8 @@ class AutoIncrementTest(TestCase):
 
     def test_key_increments(self):
         test_data = [
-            {'a': 'b',},
-            {'a': 'b',}
+            {'a': 'b'},
+            {'a': 'b'}
         ]
         p = AutoIncrement('counter')
         p.bind(test_data)
@@ -135,8 +140,8 @@ class AutoIncrementTest(TestCase):
 
     def test_key_increment_interval(self):
         test_data = [
-            {'a': 'b',},
-            {'a': 'b',}
+            {'a': 'b'},
+            {'a': 'b'}
         ]
         p = AutoIncrement('counter', interval=2)
         p.bind(test_data)
@@ -148,8 +153,8 @@ class AutoIncrementTest(TestCase):
 
     def test_key_increment_start(self):
         test_data = [
-            {'a': 'b',},
-            {'a': 'b',}
+            {'a': 'b'},
+            {'a': 'b'}
         ]
         p = AutoIncrement('counter', start_value=2)
         p.bind(test_data)
@@ -158,5 +163,3 @@ class AutoIncrementTest(TestCase):
             c += 1
             self.assertIn('counter', i)
             self.assertEquals(i['counter'], c)
-
-
