@@ -1,5 +1,6 @@
 from pious.transform.errors import InvalidIterator
 
+
 class Pipe(object):
     """
     The base object that should be extended by your own
@@ -21,13 +22,13 @@ class Pipe(object):
 
     def set_logger(self, logger):
         """
-        
+
         """
         self._logger = logger
 
     def add_watch(self, watch):
         self.watches.append(watch)
-        
+
     def _apply(self, data):
         """
         This is the method called to perform the
@@ -44,7 +45,7 @@ class Pipe(object):
 
     def _log_watched(self, data_in, data_out):
         self.logger.log_transform(data_in, data_out)
-    
+
     def __iter__(self):
         return self
 
@@ -87,6 +88,7 @@ class Filter(Pipe):
             data_out = super(Filter, self).next()
         return data_out
 
+
 class Rename(Pipe):
     """
     Renames keys based on the passed in key_map
@@ -95,7 +97,7 @@ class Rename(Pipe):
     {'old key name': 'new key name',}
     """
     def __init__(self, key_map):
-        self.key_map  = key_map
+        self.key_map = key_map
         super(Rename, self).__init__()
 
     def _apply(self, data):
@@ -105,13 +107,14 @@ class Rename(Pipe):
                 del data[key]
         return data
 
-class Winnow(Pipe):
+
+class RemoveKeys(Pipe):
     """
     Removes unwanted keys from the data passing through
     """
     def __init__(self, keys):
         self.keys = keys
-        super(Winnow, self).__init__()
+        super(RemoveKeys, self).__init__()
 
     def _apply(self, data):
         for key in self.keys:
@@ -119,12 +122,13 @@ class Winnow(Pipe):
                 del data[key]
         return data
 
+
 class AutoIncrement(Pipe):
     """
     Added a unique (for this pipe) auto-incrementing
     number to to the specified key
     """
-    def __init__(self, key, start_value = 0, interval = 1):
+    def __init__(self, key, start_value=0, interval=1):
         super(AutoIncrement, self).__init__()
         self.key = key
         self.counter_value = start_value

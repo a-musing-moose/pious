@@ -1,7 +1,6 @@
 from unittest import TestCase
 
-from pious.transform.pipes import Pipe, Ensure, Rename, Winnow, AutoIncrement
-
+from pious.transform.pipes import Pipe, Ensure, Rename, RemoveKeys, AutoIncrement
 class PipeTest(TestCase):
     
     def test_bind_accepts_iterator(self):
@@ -80,7 +79,7 @@ class RenameTest(TestCase):
             self.assertNotIn('old_key2', i)
 
 
-class WinnowTest(TestCase):
+class RemoveKeysTest(TestCase):
 
     def test_single_key_removed(self):
         test_data = [
@@ -89,7 +88,7 @@ class WinnowTest(TestCase):
         keys = [
             'a_key'
         ]
-        p = Winnow(keys)
+        p = RemoveKeys(keys)
         p.bind(test_data)
         for i in p:
                 self.assertNotIn('a_key', i)
@@ -101,7 +100,7 @@ class WinnowTest(TestCase):
         keys = [
             'a_key'
         ]
-        p = Winnow(keys)
+        p = RemoveKeys(keys)
         p.bind(test_data)
         for i in p:
                 self.assertNotIn('a_key', i)
